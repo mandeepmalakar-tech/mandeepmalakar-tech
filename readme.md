@@ -1,157 +1,36 @@
+## Hey, Geek 😎
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 
-<!-- ================================================= -->
-<!--              MANDEEP MALAKAR                     -->
-<!-- ================================================= -->
+<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
 
-<div align="center">
-
-# Hey, I'm Mandeep Malakar 👋
-
-### Full Stack Developer | MERN Stack Developer | UI/UX Designer
-
-Building meaningful digital experiences through code, creativity, and continuous learning.
-
-<br/>
-
-<a href="https://github.com/mandeepmalakar-tech">
-  <img src="https://komarev.com/ghpvc/?username=mandeepmalakar-tech&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
-</a>
-
-<br/><br/>
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-</a>
-<a href="YOUR_PORTFOLIO_URL">
-  <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-</a>
-<a href="YOUR_YOUTUBE_URL">
-  <img src="https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube" />
-</a>
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail" />
-</a>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-I'm Mandeep Malakar, a developer passionate about building modern, scalable, and user-friendly web applications.
-
-I enjoy turning ideas into real-world applications, exploring new technologies, solving problems, and continuously improving my engineering skills.
-
-- 💻 Focused on Full Stack Web Development.
-- ⚛️ Working with the MERN Stack.
-- 🎨 Interested in UI/UX Design and creative development.
-- 🚀 Building projects that solve real-world problems.
-- 📚 Continuously learning Data Structures and Algorithms.
-- 🎬 Content Creator and technology enthusiast.
-- 🎓 BCA student at St. Columba's College, Hazaribagh.
-
-**My philosophy:** Learn continuously. Build consistently. Improve every day.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,ts,tailwind,bootstrap" />
+<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
+</p>
+  
+### KNOW MORE ABOUT ME>>>>
+<p align="center">
+  <a href="https://github.com/noob-hackers">
+    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
+  </a>
 </p>
 
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,prisma,firebase" />
+<p align="center">
+<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
+<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
 </p>
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python" />
+<p align="center">
+<a href="https://lnkuv.in/bio"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
+<a href="https://lnkuv.in/bio"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://lnkuv.in/bio"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
+<p align="center">
+<a href="https://github.com/noob-hackers/grabcam"><img title="Grabcam" src="https://img.shields.io/github/stars/noob-hackers/grabcam?style=for-the-badge&label=grabcam&color=brightgreen"></a>
+<a href="https://github.com/noob-hackers/mrphish"><img title="Mrphish" src="https://img.shields.io/github/stars/noob-hackers/mrphish?style=for-the-badge&label=mrphish&color=brightgreen"></a>
+<a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://img.shields.io/github/stars/noob-hackers/kalimux?style=for-the-badge&label=kalimux&color=brightgreen"></a>
+<a href="https://github.com/noob-hackers/ipdrone"><img title="Ipdrone" src="https://img.shields.io/github/stars/noob-hackers/ipdrone?style=for-the-badge&label=ipdrone&color=brightgreen"></a>
 </p>
 
-### Design & Animation
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma,framer,threejs,gsap" />
+<p align="center">
+  <a href="https://github.com/noob-hackers">
+    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
+  </a>
 </p>
-
-### Tools & Platforms
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,linux" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 1. Advanced E-Learning Platform
-
-A learning platform designed to provide an interactive and structured educational experience.
-
-**Focus:** Full Stack Development, User Experience, and Learning Management.
-
-### 2. Employee Task Management Tool
-
-A task management application designed to organize employee responsibilities, monitor progress, and improve workflow management.
-
-**Focus:** React, Application Architecture, and State Management.
-
-### 3. Cars24 - Development & UI/UX Work
-
-Experience working on development and user interface/user experience-related work associated with Cars24.
-
-**Focus:** Frontend Development and UI/UX.
-
----
-
-## 💼 Experience & Professional Development
-
-- **Cars24:** Full-stack development and UI/UX-related work.
-- **Sheryians Coding School:** Internship experience and professional learning.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mandeepmalakar-tech&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeepmalakar-tech&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=mandeepmalakar-tech&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 🎯 Currently Working On
-
-- Strengthening my Full Stack Development skills.
-- Mastering Data Structures and Algorithms.
-- Building scalable applications using the MERN Stack.
-- Exploring backend architecture and system design.
-- Improving UI/UX and application performance.
-- Building and shipping real-world projects.
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with developers, collaborating on projects, sharing knowledge, and exploring new opportunities.
-
-<div align="center">
-
-### "Great things are built one line of code at a time."
-
-**Thanks for visiting my profile! ⭐**
-
-</div>
