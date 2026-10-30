@@ -1,36 +1,169 @@
-## Hey, Geek 😎
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110319833-47367180-7fc4-11eb-87a7-392509eca9d7.gif" alt="Bt">
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49580304/110318584-81067880-7fc2-11eb-8391-152d308e7f2b.gif" alt="Bt">
+<!-- ========================= -->
+<!-- MANDEEP MALAKAR - PROFILE -->
+<!-- ========================= -->
 
-<p align="center"><a href="https://rebrand.ly/noobhacktube"><img title="Noob Hackers" src="https://user-images.githubusercontent.com/49580304/117566137-7a83a280-b0d2-11eb-8153-91e45df98ca8.gif"></a>
-</p>
-  
-### KNOW MORE ABOUT ME>>>>
-<p align="center">
-  <a href="https://github.com/noob-hackers">
-    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=40&text=%3E%20whoami&fontSize=18&fontColor=00E5A0&fontAlign=5&animation=fadeIn" width="100%" />
+
+</div>
+
+<table border="0">
+<tr>
+<td width="27%" align="center" valign="middle">
+
+<img src="https://github.com/mandeepmalakar-tech.png" width="210" alt="Mandeep Malakar GitHub avatar" />
+
+</td>
+<td width="73%" valign="middle">
+
+# Mandeep <span style="color:#00E5A0">Malakar</span>
+
+### Software Engineer | MERN Stack | UI/UX
+
+Building scalable web applications and meaningful digital experiences.
+
+- 🟢 Currently working on exciting projects
+- 🟢 Learning DSA and System Design
+- 🟢 Exploring backend engineering
+- 🟢 Open to collaboration
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="YOUR_PORTFOLIO_URL">
+<img src="https://img.shields.io/badge/Portfolio-00E5A0?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="YOUR_YOUTUBE_URL">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-333333?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## `> Tech Stack`
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
-<p align="center">
-<a href="https://rebrand.ly/githubprof"><img title="YouTube" src="https://img.shields.io/badge/noob-hackers-brightgreen?style=for-the-badge&logo=github"></a>
-<a href="https://rebrand.ly/noobhackers"><img title="YouTube" src="https://img.shields.io/badge/YouTube-Noob Hackers-red?style=for-the-badge&logo=Youtube"></a>
+### Backend & Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
 </p>
 
-<p align="center">
-<a href="https://lnkuv.in/bio"><img title="Telegram" src="https://img.shields.io/badge/Telegram-black?style=for-the-badge&logo=Telegram"></a>
-<a href="https://lnkuv.in/bio"><img title="whatsapp" src="https://img.shields.io/badge/whatsapp-blue?style=for-the-badge&logo=whatsapp"></a>
-<a href="https://lnkuv.in/bio"><img title="Instagram" src="https://img.shields.io/badge/INSTAGRAM-purple?style=for-the-badge&logo=instagram"></a>
-<p align="center">
-<a href="https://github.com/noob-hackers/grabcam"><img title="Grabcam" src="https://img.shields.io/github/stars/noob-hackers/grabcam?style=for-the-badge&label=grabcam&color=brightgreen"></a>
-<a href="https://github.com/noob-hackers/mrphish"><img title="Mrphish" src="https://img.shields.io/github/stars/noob-hackers/mrphish?style=for-the-badge&label=mrphish&color=brightgreen"></a>
-<a href="https://github.com/noob-hackers/kalimux"><img title="Kalimux" src="https://img.shields.io/github/stars/noob-hackers/kalimux?style=for-the-badge&label=kalimux&color=brightgreen"></a>
-<a href="https://github.com/noob-hackers/ipdrone"><img title="Ipdrone" src="https://img.shields.io/github/stars/noob-hackers/ipdrone?style=for-the-badge&label=ipdrone&color=brightgreen"></a>
+### Programming & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,cpp,python,git,github,vscode,postman,figma" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/noob-hackers">
-    <img src="https://img.shields.io/static/v1?label=Noob&message=Hackers&color=00A846&labelColor=000000&logo=github&logoColor=00A846&style=for-the-badge">
-  </a>
-</p>
+---
+
+## `> GitHub Stats`
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mandeepmalakar-tech&show_icons=true&hide_border=true&bg_color=00000000&title_color=00E5A0&icon_color=00E5A0&text_color=C9D1D9" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mandeepmalakar-tech&layout=compact&hide_border=true&bg_color=00000000&title_color=00E5A0&text_color=C9D1D9" />
+
+<br/>
+
+<img width="75%" src="https://streak-stats.demolab.com?user=mandeepmalakar-tech&hide_border=true&background=00000000&ring=00E5A0&fire=00E5A0&currStreakLabel=00E5A0&sideLabels=C9D1D9&dates=888888" />
+
+</div>
+
+---
+
+## `> About Me`
+
+I'm Mandeep Malakar, a developer passionate about building modern, scalable, and user-friendly applications.
+
+I enjoy exploring technologies, solving problems, understanding how systems work, and continuously improving my engineering skills.
+
+| | |
+|---|---|
+| 📍 Location | YOUR_CITY, India |
+| 🎓 Education | YOUR_COLLEGE / DEGREE |
+| 💻 Speciality | MERN Stack Development |
+| 🧠 Interests | Web Development, Backend, AI, Open Source |
+| ⚡ Philosophy | Learn • Build • Improve • Repeat |
+
+---
+
+## `> Currently Working On`
+
+- [ ] Building real-world full-stack applications
+- [ ] Mastering Data Structures & Algorithms
+- [ ] Exploring backend architecture and system design
+- [ ] Improving UI/UX and web performance
+- [ ] Learning advanced JavaScript and Node.js
+- [ ] Contributing to open source
+
+---
+
+## `> Featured Projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### Advanced E-Learning Platform
+
+A learning platform with interactive courses and progress tracking.
+
+**Technologies:** React · Node.js · MongoDB
+
+[View Repository](YOUR_PROJECT_1_URL)
+
+</td>
+<td width="50%">
+
+### Employee Task Management
+
+A task management application for organizing employee responsibilities and tracking progress.
+
+**Technologies:** React · Node.js · MongoDB
+
+[View Repository](YOUR_PROJECT_2_URL)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `> Contribution Graph`
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mandeepmalakar-tech&bg_color=00000000&color=00E5A0&line=00E5A0&point=FFFFFF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### `> Great things are built one line of code at a time.`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:001A13,100:003B2D&height=3&section=footer" width="100%" />
+
+**Thanks for visiting my profile.**
+
+</div>
