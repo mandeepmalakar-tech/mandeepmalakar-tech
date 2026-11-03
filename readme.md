@@ -24,10 +24,10 @@
 
 Building scalable web applications and meaningful digital experiences.
 
-- 🟢 Currently working on exciting projects
-- 🟢 Learning DSA and System Design
-- 🟢 Exploring backend engineering
-- 🟢 Open to collaboration
+-  Currently working on exciting projects
+-  Learning DSA and System Design
+-  Exploring backend engineering
+-  Open to collaboration
 
 </td>
 </tr>
