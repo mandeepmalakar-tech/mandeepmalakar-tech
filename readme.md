@@ -17,5 +17,7 @@
 </a>
 </div>
 
-<h1 align="center"> next coming soon...</h1>
+<div align="center">
+  <img src="assets/tech-tags.png" width="100%" alt="Mandeep's Tech Stack" />
+</div>
 
